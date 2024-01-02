@@ -1,0 +1,6 @@
+,movie_id,title,industry,release_year,imdb_rating,studio,language_id,lang_name_x,lang_name_y,lang_name,budget_x,revenue_x,unit_x,currency_x,budget_y,revenue_y,unit_y,currency_y
+0,101,K.G.F: Chapter 2,Bollywood,2022,8.4,Hombale Films,3,Kannada,Kannada,Kannada,1.0,12.5,Billions,INR,1.0,12.5,Billions,INR
+1,102,Doctor Strange in the Multiverse of Madness,Hollywood,2022,7.0,Marvel Studios,5,English,English,English,200.0,954.8,Millions,USD,200.0,954.8,Millions,USD
+2,103,Thor: The Dark World ,Hollywood,2013,6.8,Marvel Studios,5,English,English,English,165.0,644.8,Millions,USD,165.0,644.8,Millions,USD
+3,104,Thor: Ragnarok ,Hollywood,2017,7.9,Marvel Studios,5,English,English,English,180.0,854.0,Millions,USD,180.0,854.0,Millions,USD
+4,105,Thor: Love and Thunder ,Hollywood,2022,6.8,Marvel Studios,5,English,English,English,250.0,670.0,Millions,USD,250.0,670.0,Millions,USD
